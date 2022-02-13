@@ -1,6 +1,5 @@
    📚 cursando analise e desenvolvimento de sistemas 
 
-   📚 Estudando Javascript, Css, Html5
 
   
   <a href="https://github.com/Welingtonkg">
